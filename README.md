@@ -3,7 +3,7 @@
 ## About Me :
 
 - 🏢 I am currently working as a **Fullstack Web Developer** at [Unidos Srl](https://unidoscloud.eu/)
-- 🌱 I’m currently learning: **NextJS**
+- 🌱 I’m currently learning: **React - NextJS**
 - 📫 How to reach me: [flavio.mastrangelo@unidos.it](mailto:flavio.mastrangelo@unidos.it)
 - 🏡 Lives in **Molise, Italia**
 - ⚡ **Fun Facts** : 🍕 ⚽ 🏏 🎧 🚞
